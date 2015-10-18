@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 4486df2ffe2d9d54eb2d1f6866507762
+timeCreated: 1444792953
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BombSpriteSheet_1
+    21300002: BombSpriteSheet_2
+    21300004: BombSpriteSheet_0
+    21300006: BombSpriteSheet_3
+    21300008: BombSpriteSheet_4
+    21300010: BombSpriteSheet_5
+    21300012: BombSpriteSheet_6
+    21300014: BombSpriteSheet_7
+    21300016: BombSpriteSheet_8
+    21300018: BombSpriteSheet_9
+    21300020: BombSpriteSheet_10
+    21300022: BombSpriteSheet_11
+    21300024: BombSpriteSheet_12
+    21300026: BombSpriteSheet_13
+    21300028: BombSpriteSheet_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BombSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 584
+        width: 129
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 581
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 568
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 571
+        width: 160
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 570
+        width: 167
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 422
+        width: 139
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 250
+        width: 144
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 422
+        width: 153
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 239
+        width: 150
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 237
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 402
+        width: 137
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 419
+        width: 158
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 427
+        width: 122
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 223
+        width: 122
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BombSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 233
+        width: 159
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
