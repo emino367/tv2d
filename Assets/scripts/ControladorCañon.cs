@@ -8,7 +8,7 @@ public class ControladorCañon : MonoBehaviour {
     public float posicionMouse2;
     public float diferencia=0f;
     public float AngleDeg;
-    public Transform b;
+    public GameObject b;
 
     public Vector3 gunPosVector { get; private set; }
 
@@ -35,8 +35,9 @@ public class ControladorCañon : MonoBehaviour {
         
         if (Input.GetMouseButtonDown(0))
         {
+            
             var bullet = (GameObject)Instantiate(b, transform.position, Quaternion.identity);
-            bullet.GetComponent<Rigidbody2D>().AddForce(new Vector3(Input.mousePosition.x - gunPosVector.x, 10*(Input.mousePosition.y - gunPosVector.y), 0));
+            bullet.GetComponent<Rigidbody2D>().AddForce(new Vector2(2*(Input.mousePosition.x - gunPosVector.x),2*(Input.mousePosition.y - gunPosVector.y)));
                   
         }
     }
